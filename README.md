@@ -22,5 +22,5 @@ This project was trained on VGG19 with only two fully connected layers, the exac
 
 ## Authors: 
 **Naseer Faheem** - Initial Work 
-**Udacity / Facebook ** Final Lab work for the PyTorch Challenge 2018. 
+**Udacity / Facebook** - Final Lab work for the PyTorch Challenge 2018. 
 
